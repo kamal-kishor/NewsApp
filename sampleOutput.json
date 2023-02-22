@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Russian balloons over Kyiv in new wave of attacks",
+      "description": "Dozens of missiles are fired at Ukraine as six balloons are spotted in the skies over the capital.",
+      "url": "http://www.bbc.co.uk/news/world-europe-64661145",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18442/production/_128649399_ball2.jpg",
+      "publishedAt": "2023-02-16T12:37:21.2652316Z",
+      "content": "Ukraine's army chief has said Russia fired 36 cruise missiles early on Thursday, a day after six balloons were spotted over the capital Kyiv.\r\nThe missiles fired from land and sea killed a woman and … [+3421 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Is ‘Run, Hide, Fight’ the best advice for mass shootings?",
+      "description": "The three-word message was sent to students during a shooting at a Michigan university on Monday.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64643047",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B52/production/_128643486_gettyimages-495486866.jpg",
+      "publishedAt": "2023-02-16T11:52:25.7345891Z",
+      "content": "When a gunman opened fire at Michigan State University on Monday, students on campus received a three-word order: \"Run, Hide, Fight.\"\r\n\"Run means evacuate away from danger if you can do so safely, Hi… [+4348 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Thai cave rescue: Duangpetch Promthep's death shatters happiest of endings",
+      "description": "The astonishing story of 13 boys trapped in a cave had a flawlessly joyful ending - until now.",
+      "url": "http://www.bbc.co.uk/news/world-asia-64658731",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E712/production/_128645195_2c0405b2ea249924f2dd52ba4ac6c93b61b9dcc1.jpg",
+      "publishedAt": "2023-02-16T09:07:17.5469552Z",
+      "content": "We still do not know what caused the sudden death of Duanpetch 'Dom' Promthep at the football academy in Britain to which he had been so proud to win a scholarship last year. \r\nIt casts, for the firs… [+3517 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ohio train: Anger and fear over toxic chemical derailment",
+      "description": "East Palestine residents left without answers after train company pulls out of local meeting.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64659795",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB65/production/_128537974_traincrash.jpg",
+      "publishedAt": "2023-02-16T07:37:19.7843409Z",
+      "content": "Furious, fearful and frustrated residents of the sleepy town of East Palestine, Ohio, were left with few answers after a tense meeting with officials on Wednesday.\r\nMuch of the anger was directed at … [+4697 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Inside a prisoner of war camp for Russians",
+      "description": "The BBC is given rare access to a prisoner of war facility housing hundreds in western Ukraine.",
+      "url": "http://www.bbc.co.uk/news/world-europe-64637928",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/97CE/production/_128626883_badge.jpg",
+      "publishedAt": "2023-02-16T05:37:24.0780786Z",
+      "content": "Russian missiles were once again taunting Ukraine from the sky as we entered this prisoner of war facility in the west of the country.\r\nHundreds of captured Russian soldiers, conscripts, and mercenar… [+4448 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Texas shooting: One dead in El Paso shopping centre attack",
+      "description": "Another three people were injured in El Paso, and two suspects are now in custody, US police say.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64659253",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ED52/production/_128645706_d1223bcc-de91-4423-9671-c0ea107e75dd.jpg",
+      "publishedAt": "2023-02-16T05:22:19.5936723Z",
+      "content": "One person has been killed and three injured in a shooting at a shopping centre in the city of El Paso, police in the US state of Texas say.\r\nTwo suspects have been detained, and the authorities say … [+852 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "FBI searches Biden papers at University of Delaware",
+      "description": "Investigators retrieved multiple boxes from the college and are reviewing the material.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64658951",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9186/production/_128645273_gettyimages-1240954815.jpg",
+      "publishedAt": "2023-02-16T04:22:29.0313367Z",
+      "content": "The FBI has conducted two searches within the last month at the University of Delaware to check if US President Joe Biden donated papers that could have been classified.\r\nInvestigators retrieved mult… [+1739 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Unseen video shows Titanic after first discovery",
+      "description": "It was filmed during a 1986 diving expedition which gave the first glimpses of the shipwreck on the sea floor.",
+      "url": "http://www.bbc.co.uk/news/science-environment-64658463",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9884/production/_128644093_p0f3dz5m.jpg",
+      "publishedAt": "2023-02-15T23:52:16.3690113Z",
+      "content": "Previously unseen footage of the wreckage of the RMS Titanic has been released. \r\nThe new footage was filmed during a 1986 diving expedition which gave the first glimpses of the shipwreck under the w… [+113 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Raquel Welch: US actress and model dead at 82",
+      "description": "Welch won a Golden Globe Award in 1974 for her performance in The Three Musketeers.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64657781",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1332A/production/_128643687_gettyimages-869219976.jpg",
+      "publishedAt": "2023-02-15T20:22:20.5411339Z",
+      "content": "Hollywood star Raquel Welch, who became an international sex symbol in the 1960s, has died aged 82.\r\nWelch died on Wednesday morning after a brief illness, according to her manager.\r\nShe won a Golden… [+275 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Nikki Haley: Why she thinks she can beat Trump in Republican race",
+      "description": "She's banking on Republicans looking for something different, but can she pull it off?",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64653925",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/106C/production/_128640240_haley3_976getty.jpg",
+      "publishedAt": "2023-02-15T15:37:25.4952267Z",
+      "content": "Nikki Haley becomes the first candidate to challenge Donald Trump for the Republican nomination when she holds her first campaign event in Charleston, South Carolina, on Wednesday.\r\nShe most certainl… [+6670 chars]"
+    }
+  ]
+}
