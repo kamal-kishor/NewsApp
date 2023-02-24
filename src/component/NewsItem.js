@@ -20,7 +20,7 @@ export default class NewsItem extends Component {
             </h5>
             <p className="card-text">This is the Sample text{description}</p>
             <p className="card-text">
-              <small className="text-muted">
+              <small className="text-muted danger">
                 By {!author ? "Unknown" : author} on{" "}
                 {new Date(date).toGMTString()}
               </small>
