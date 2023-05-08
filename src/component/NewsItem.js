@@ -2,12 +2,12 @@ import React, { Component } from "react";
 
 export default class NewsItem extends Component {
   render() {
-    let { title, description, imgurl, newsUrl, author, date, source } =
+    let { title, description, imageUrl, newsUrl, author, date, source } =
       this.props;
     return (
       <div className="my-3">
         <div className="card" style={{ width: "18rem" }}>
-          <img src={imgurl} className="card-img-top" alt="Card image cap" />
+          <img src={imageUrl} className="card-img-top" alt="Card_image_cap" />
           <div className="card-body">
             <h5 className="card-title">
               {title}
